@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=121922&fontColor=fff&width=100&height=200&section=header&text=GHIBLI%20Advend%20Calendar&fontSize=30&section=header" />
-![calendar](https://github.com/imsuhee/GHIBLI-Advend-Calendar/assets/51073806/4752b634-255a-42bd-ab72-a36bb3213798.png)
+![calendar](https://github.com/imsuhee/GHIBLI-Advend-Calendar/assets/51073806/4752b634-255a-42bd-ab72-a36bb3213798.png){width="60%",height=40%""}
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
