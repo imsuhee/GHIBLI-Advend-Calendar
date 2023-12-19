@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=121922&fontColor=fff&width=100&height=200&section=header&text=GHIBLI%20Advend%20Calendar&fontSize=30&section=header" />
-[url=https://ibb.co/H43NS5R][img]https://i.ibb.co/4t3sqhC/calendar.png[/img][/url]
+#화면
+![calendar](https://github.com/imsuhee/GHIBLI-Advend-Calendar/assets/51073806/d7e7d64f-6f48-4847-a36e-aa69ea359f88)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
