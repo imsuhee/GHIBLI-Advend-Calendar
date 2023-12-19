@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=121922&fontColor=fff&width=100&height=200&section=header&text=GHIBLI%20Advend%20Calendar&fontSize=30&section=header" />
-#화면
+<h2>화면</h2>
 ![calendar](https://github.com/imsuhee/GHIBLI-Advend-Calendar/assets/51073806/d7e7d64f-6f48-4847-a36e-aa69ea359f88)
 
 <div align="center">
